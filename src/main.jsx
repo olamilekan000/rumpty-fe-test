@@ -46,7 +46,7 @@ function App() {
           <p className="eyebrow">Static frontend deployment</p>
           <h1>{path === "/routes/demo" ? "Client route is alive." : "Rumpty served this app successfully."}</h1>
           <p className="subcopy">
-            OK3... This page checks static assets, browser routing,everything you think, environment values, build output, and a tiny bit of runtime interactivity.
+            OK4... This page checks static assets, browser routing,everything you think, environment values, build output, and a tiny bit of runtime interactivity.
           </p>
           <div className="actions">
             <button className="primary" onClick={rerunChecks}>
